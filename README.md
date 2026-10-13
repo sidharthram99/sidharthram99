@@ -34,16 +34,13 @@ I turn raw data into clear, decision-ready insights. With an MSc in Physics, cer
 
 ## 📊 Projects
 
-| Project | Description | Tools | Link |
+| Project | What it answers | Tools | Link |
 |---|---|---|---|
-| [Project 1 name] | [One line: what question it answers] | SQL | [View](#) |
-| [Project 2 name] | [One line] | Power BI | [View](#) |
-| [Project 3 name] | [One line] | Tableau | [View](#) |
-| [Project 4 name] | [One line] | Python | [View](#) |
-| [Project 5 name] | [One line] | Python, Machine Learning | [View](#) |
-| [Project 6 name] | [One line] | SQL + Power BI + Python | [View](#) |
-
----
+| **Customer Behaviour Analysis** | End-to-end analysis: EDA, business questions answered with SQL, and an interactive dashboard | Python, SQL, Power BI | [View](#) |
+| **Airline Passenger Forecasting** | Forecasts airline passenger demand with an ARIMA time-series model | Python, ARIMA, ADF test | [View](#) |
+| **Uber Revenue Analysis** | Which vehicle segments earn the most, total revenue, and top pickup/drop locations | Power BI | [View](#) |
+| **Zepto Data Analysis** | Business questions answered purely with SQL queries | SQL | [View](#) |
+| **HR Analytics Dashboard** | Employee attrition and satisfaction insights | Power BI | [View](#) |
 
 ## 🎓 Education & Certifications
 - MSc Physics, University of Calicut
