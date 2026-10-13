@@ -4,7 +4,7 @@
 I turn raw data into clear, decision-ready insights. With an MSc in Physics, certifications in data analytics, and hands-on experience in business operations, I bring an analytical mindset and a strong understanding of how real business data is created and used.
 
 📍 Dubai, UAE  |  💼 Open to on-site, hybrid, and remote roles
-📫 [LinkedIn link](www.linkedin.com/in/sidharth-r-943115233) · ✉️ sidharthram99@gmail.com · 📄 [Resume](link-to-resume)
+📫 [LinkedIn link](https://www.linkedin.com/in/sidharth-r-943115233) · ✉️ sidharthram99@gmail.com · 📄 [Resume](link-to-resume)
 
 ---
 
