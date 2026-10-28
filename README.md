@@ -42,7 +42,7 @@ I turn raw data into clear, decision-ready insights. With an MSc in Physics, cer
 | **Airline Passenger Forecasting** | Forecasts airline passenger demand with an ARIMA time-series model | Python, ARIMA, ADF test | [View](https://github.com/sidharthram99/airline-passenger-arima-forecast) |
 | **Uber Revenue Analysis** | Which vehicle segments earn the most, total revenue, and top pickup/drop locations | Power BI | [View](https://github.com/sidharthram99/uber-revenue-analysis-powerbi) |
 | **Zepto Data Analysis** | Business questions answered purely with SQL queries | SQL | [View](https://github.com/sidharthram99/zepto-sql-analysis/blob/main/sql/Zepto_Analysis.sql) |
-| **HR Analytics Dashboard** | Employee attrition and satisfaction insights | Power BI | [View](#) |
+| **HR Analytics Dashboard** | Employee attrition and satisfaction insights | Power BI | [View](https://github.com/sidharthram99/HR-analytics-powerbi/blob/main/README.md) |
 
 ## 🎓 Education & Certifications
 - MSc Physics, University of Calicut
