@@ -40,7 +40,7 @@ I turn raw data into clear, decision-ready insights. With an MSc in Physics, cer
 |---|---|---|---|
 | **Customer Behaviour Analysis** | End-to-end analysis: EDA, business questions answered with SQL, and an interactive dashboard | Python, SQL, Power BI | [view](https://github.com/sidharthram99/customer-behaviour-analysis) |
 | **Airline Passenger Forecasting** | Forecasts airline passenger demand with an ARIMA time-series model | Python, ARIMA, ADF test | [View](https://github.com/sidharthram99/airline-passenger-arima-forecast) |
-| **Uber Revenue Analysis** | Which vehicle segments earn the most, total revenue, and top pickup/drop locations | Power BI | [View](#) |
+| **Uber Revenue Analysis** | Which vehicle segments earn the most, total revenue, and top pickup/drop locations | Power BI | [View](https://github.com/sidharthram99/uber-revenue-analysis-powerbi) |
 | **Zepto Data Analysis** | Business questions answered purely with SQL queries | SQL | [View](#) |
 | **HR Analytics Dashboard** | Employee attrition and satisfaction insights | Power BI | [View](#) |
 
